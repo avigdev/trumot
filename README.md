@@ -1,0 +1,2 @@
+# trumot
+parse donation receipts
